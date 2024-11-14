@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/1*99VvgE1zh2bvl8_6V0G00A.png)
+
 <h1 align="center">Hi 👋, I'm Sachin Kumar Ansh</h1>
 <h3 align="center"> A Passionate cybersecurity enthusiast from India</h3>
-<img align= "right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif"
+<img align= "right" alt="Coding" width="500" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumaransh&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumaransh" /> </p>
 
